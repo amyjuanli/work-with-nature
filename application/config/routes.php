@@ -7,3 +7,4 @@ $route['translate_uri_dashes'] = FALSE;
 
 $route['company'] = 'Controller_company/index';
 $route['addCompany'] = 'Controller_company/addCompany';
+$route['sharing'] = 'Controller_sharing/index';
